@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @avaithyam
 - 👀 I’m interested in video games, reading, and coding
-- 🌱 I’m currently learning Salesforce
+- 🌱 I’m currently learning Salesforce frontend software(APEX)
 - 💞️ I’m looking to collaborate on full stack projects 
 - 📫 How to reach me avaithyam@gmail.com
 - 😄 Pronouns: He/him
